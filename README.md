@@ -3,7 +3,7 @@ This is my first project using OpenAIs image generation model using DALL-E. Gott
 
 ![image](https://github.com/filipbyberg/Image-Generation-Application/assets/80341025/fa55da5c-6448-47fd-95e5-9169cb1eaaec)
 
-** How To **
+## How To 
 For this project, you need NodeJS installed. Once installed to your computer, open your VS-Code and install OpenAI package and dotenv for our environment variables.
 ```
 npm i express openai dotenv
